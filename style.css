@@ -9,7 +9,6 @@
 */
  
 /* Add Custom CSS after this line */
-
-.something-class {
-	color: pink;
+.entry-title {
+	text-decoration: underline !important;
 }
