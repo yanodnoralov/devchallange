@@ -1,0 +1,15 @@
+/*
+ Theme Name:     Twenty Fifteen Child Theme
+ Theme URI:      http://hyperlinkcode.com/blog/?p=1010
+ Description:    A bare-bones child theme for use with Twenty Fifteen Theme. Pick matching colors quickly at <a href="http://www.html-color-names.com/">html-color-names.com</a>.
+ Author:         Edward Zivkovic
+ Author URI:     http://hyperlinkcode.com/blog/
+ Template:       twentyfifteen
+ Version:        1.0.0
+*/
+ 
+/* Add Custom CSS after this line */
+
+.something-class {
+	color: pink;
+}
